@@ -32,6 +32,6 @@ Aqui no meu GitHub, você encontrará uma variedade de projetos que demonstram m
 ## Contato
 
 
-Email: seuemail@example.com
+
 LinkedIn: https://www.linkedin.com/in/guilherme-louren%C3%A7o-a229a0266/
 Portfólio: Seu Portfólio
